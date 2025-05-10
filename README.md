@@ -103,9 +103,3 @@ docker image prune
 
 Made with ❤️ by CHOUROUK
 
----
-
-## 📘 License
-
-MIT License
-```
