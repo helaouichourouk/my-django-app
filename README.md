@@ -1,4 +1,4 @@
-```markdown
+
 # 🐍 Django + Docker + venv Starter
 
 A minimal example of running a Django project with:
@@ -102,4 +102,3 @@ docker image prune
 ## 🧑‍💻 Author
 
 Made with ❤️ by CHOUROUK
-
